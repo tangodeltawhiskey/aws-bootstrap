@@ -243,6 +243,7 @@ Resources:
 
             # Create log directory
             mkdir -p /home/ec2-user/app/logs
+            mkdir -p /home/ec2-user/app/release
 
             # Run server
             #cd app
